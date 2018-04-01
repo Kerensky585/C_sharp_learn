@@ -1,0 +1,10 @@
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\dev\Rider_C_sharp\C_sharp_learn\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
